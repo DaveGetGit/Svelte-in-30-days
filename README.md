@@ -27,7 +27,7 @@ _As recorded on Apr 11, 2023_
 ## Repository Structure
  
  * `README.md` - this file. 
- * `docs/` - (now) Markdown, (next) website => capture learnings
- * `tutorials/*` - exploring a concept per lesson, with README.
+ * `website/` - Docusaurus-based #30Days site => capture learnings
+ * `learn/*` - exploring a concept per lesson, with README.
 
 ---
