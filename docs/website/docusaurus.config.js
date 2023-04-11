@@ -16,11 +16,11 @@ const config = {
   tagline: "A Month Of Learning By Doing!",
   favicon: "img/favicon.ico",
   url: "https://30DaysOf.github.io/",
-  baseUrl: "/svelte/",
+  baseUrl: "/Svelte/",
 
   // ---------- Deployment Configurations
   // See: https://docusaurus.io/docs/deployment
-  projectName: "svelte",
+  projectName: "Svelte",
   organizationName: "30DaysOf",
   deploymentBranch: "gh-pages",
 
